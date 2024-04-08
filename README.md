@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+#### Web/Android - https://vinay-flutter.netlify.app
+
+#### Packages used - google_fonts, flutter_carousel_slider, url_launcher
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
